@@ -21,12 +21,13 @@ I am currently a Machine Learning Engineer at [insert]. My work involves applyin
 
 - Email (personal)
 - Email (work)
-- Publications: [[Link](https://lorenjanderson.github.io/research/)]
-- Google Scholar: [[Link](https://scholar.google.com/citations?user=pReM1U8AAAAJ&hl=en)]
-- Github: [[Link](https://github.com/LorenJAnderson)]
-- Orcid: 
+- [<span style="color:rgb(058,147,195)">Publications</span>](https://lorenjanderson.github.io/research/)
+- [<span style="color:rgb(058,147,195)">Google Scholar</span>](https://scholar.google.com/citations?user=pReM1U8AAAAJ&hl=en)
+- [<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson)
+- [<span style="color:rgb(058,147,195)">ORCID</span>](https://orcid.org/0000-0003-2978-2483) 
 - Arxiv: 
-- Stack Exchange: [[Link](https://ai.stackexchange.com/users/37607/deepqzero)]: Top 50 in total reputation on AI Stack Exchange. Feel free to ask a question and tag me in the comments.
+- [<span style="color:rgb(058,147,195)">Open Review</span>](https://openreview.net/profile?id=~Loren_James_Anderson1)
+- [<span style="color:rgb(058,147,195)">Stack Exchange</span>](https://ai.stackexchange.com/users/37607/deepqzero): Top 50 in total reputation on AI Stack Exchange. Feel free to ask a question and tag me in the comments.
 
 
 ---
