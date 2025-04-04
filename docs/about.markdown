@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I am currently a Machine Learning Engineer at [insert]. My work involves applying deep reinforcement learning algorithms to spacecraft control scenarios with the goal of implementing and testing the resultant models in physical spacecraft. I earned my [[PhD](https://apps.grad.umn.edu/programs/doctoral_register.aspx?p=1052000)] from the University of Minnesota in 2022.
+I am currently a Machine Learning Engineer at [insert]. My work involves applying deep reinforcement learning algorithms to spacecraft control scenarios with the goal of implementing and testing the resultant models in physical spacecraft. I earned my [<span style="color:rgb(058,147,195)">PhD from the University of Minnesota</span>](https://apps.grad.umn.edu/programs/doctoral_register.aspx?p=1052000) in 2022.
 
 ---
 #### <center>Updates</center>
 
 - Dec 18, 2024: Served as the deep reinforcement learning session chair at ICMLA 2024.
-- Update 2
-- Update 3
-- Update 4
+- Sep 07, 2024: Paper [<span style="color:rgb(058,147,195)">*Optimal parameter estimation of biological systems through deep reinforcement learning*</span>](https://ieeexplore.ieee.org/abstract/document/10903242/) accepted to ICMLA 2024 in Miami, Florida.
+- Apr 12, 2024: Got married!
+- Feb 16, 2024: Blogpost [<span style="color:rgb(058,147,195)">*Behavioral differences in mode-switching exploration for reinforcement learning*</span>](https://iclr-blogposts.github.io/2024/blog/mode-switching/) accepted to ICLR 2024 Blogpost Track in Vienna, Austria.
 
 
 ---
