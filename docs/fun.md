@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Test
-permalink: /test/
+title: Fun
+permalink: /fun/
 ---
 
 This is a test.
