@@ -14,18 +14,19 @@ I am currently a Machine Learning Engineer at [insert]. My work involves applyin
 - Apr 12, 2024: Got married!
 - Feb 16, 2024: Blogpost [<span style="color:rgb(058,147,195)">*Behavioral differences in mode-switching exploration for reinforcement learning*</span>](https://iclr-blogposts.github.io/2024/blog/mode-switching/) accepted to ICLR 2024 Blogpost Track in Vienna, Austria.
 
+---
+#### <center>Collaboration</center>
+
 
 ---
 #### <center>Contact & Links</center>
 
 
-- Email (personal)
-- Email (work)
+- Email: anderson.loren.j (gmail)
 - [<span style="color:rgb(058,147,195)">Publications</span>](https://lorenjanderson.github.io/research/)
 - [<span style="color:rgb(058,147,195)">Google Scholar</span>](https://scholar.google.com/citations?user=pReM1U8AAAAJ&hl=en)
 - [<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson)
 - [<span style="color:rgb(058,147,195)">ORCID</span>](https://orcid.org/0000-0003-2978-2483) 
-- Arxiv: 
 - [<span style="color:rgb(058,147,195)">Open Review</span>](https://openreview.net/profile?id=~Loren_James_Anderson1)
 - [<span style="color:rgb(058,147,195)">Stack Exchange</span>](https://ai.stackexchange.com/users/37607/deepqzero): Top 50 in total reputation on AI Stack Exchange. Feel free to ask a question and tag me in the comments.
 
