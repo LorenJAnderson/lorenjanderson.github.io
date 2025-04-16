@@ -44,7 +44,7 @@ Notes: UMN PhD thesis. See above and below publications for relevant code.
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **9. Bayesian sequential optimal experimental design for linear regression with reinforcement learning**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://ieeexplore.ieee.org/abstract/document/10069722)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/linear-oed)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/171nugcQRufui9xJmuXCKhlMrZYE8CH_-/view?usp=drive_link)]\
 Venue: International Conference on Machine Learning and Applications (ICMLA) 2022.\
-Note: Material from my Master's thesis. Completed as a student at UMN. 
+Notes: Material from my Master's thesis. Completed as a student at UMN. 
 
 <span style="color:rgb(220,205,125)">&#9632;&#xFE0E;</span> **8. On Solving the 2-dimensional greedy shooter problem for UAVs**\
 Links: [[<span style="color:rgb(058,147,195)">Report</span>](https://arxiv.org/abs/1911.01419)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/uav-2d-greedyshooter-rl)]\
@@ -91,4 +91,3 @@ Venue: Geombinatorics\
 Note: Formed the basis of my winning [<span style="color:rgb(058,147,195)">2014 Goldwater Scholarship</span>](https://goldwaterscholarship.gov/2014-scholars/) essay worth $15K.\
 Work Location: Completed during the 2013 Auburn Mathematics REU.
 
----

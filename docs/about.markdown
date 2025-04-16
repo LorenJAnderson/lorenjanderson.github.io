@@ -13,7 +13,7 @@ permalink: /about/
 &nbsp;
 
 <div>
-  <img class="align-middle" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdrive.google.com/uc?id=1f5WBwJlPHPYoNv_BjsbcD7V2W---ay7a" alt="Portrait" width="175">
+  <img class="align-middle" src="/assets/Portrait.png" alt="Portrait" width="175">
 
   <span class="align-middle">
     <p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="6">Loren James Anderson</font></b></p>
