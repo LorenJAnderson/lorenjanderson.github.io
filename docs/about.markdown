@@ -38,13 +38,12 @@ I am currently a Machine Learning Engineer at Huntington Ingalls Industries. My 
 #### <center>Contact & Links</center>
 
 
-- Personal Gmail: anderson.loren.j
-- [<span style="color:rgb(058,147,195)">Publications</span>](https://lorenjanderson.github.io/research/)
 - [<span style="color:rgb(058,147,195)">Google Scholar</span>](https://scholar.google.com/citations?user=pReM1U8AAAAJ&hl=en)
-- [<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson)
-- [<span style="color:rgb(058,147,195)">ORCID</span>](https://orcid.org/0000-0003-2978-2483) 
 - [<span style="color:rgb(058,147,195)">Open Review</span>](https://openreview.net/profile?id=~Loren_James_Anderson1)
 - [<span style="color:rgb(058,147,195)">Stack Exchange</span>](https://ai.stackexchange.com/users/37607/deepqzero)
+- [<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson)
+- [<span style="color:rgb(058,147,195)">ORCID</span>](https://orcid.org/0000-0003-2978-2483) 
+- Gmail: anderson.loren.j
 
 ---
 *Disclaimer: The views and opinions presented on this website and its internal links are strictly my own and do not necessarily represent the view of any of my past, present, or future employers, institutions, or funding agencies.*
