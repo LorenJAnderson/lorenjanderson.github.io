@@ -55,9 +55,9 @@ Notes: Resultant work from the 2019 AFRL Scholars Program. Completed as student 
 #### <center>Undergraduate</center>
 
 <span style="color:rgb(220,205,125)">&#9632;&#xFE0E;</span> **7. Existence of $$\small k$$-normal elements in finite field extensions**\
-Links: [Report] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1Sl2aKkqnPKjc11ubeOd0oTBicPKHu5ti/view?usp=drive_link)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Slides</span>](https://drive.google.com/file/d/12x9zhPiSkTXhRi_9VTymHPWMOExV8-PG/view?usp=drive_link)]\
+Links: [[<span style="color:rgb(058,147,195)">Report</span>](https://drive.google.com/file/d/1Px_BPdWixrUfvzkjWJQsA2iA0wgXfkPg/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1Sl2aKkqnPKjc11ubeOd0oTBicPKHu5ti/view?usp=drive_link)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Slides</span>](https://drive.google.com/file/d/12x9zhPiSkTXhRi_9VTymHPWMOExV8-PG/view?usp=drive_link)]\
 Notes: Completed mostly as a student during the 2014 Penn State MASS Program.\
-Highlights: Formed the basis for a winning NSF GRFP Fellowship worth $138K. Won an [<span style="color:rgb(058,147,195)">outstanding poster presentation</span>](https://drive.google.com/file/d/1htiJt-tVH1izw0oYutZdRTVHKNRG7FQD/view?usp=drive_link) at the 2016 JMM.
+Highlights: Formed the basis for a winning [<span style="color:rgb(058,147,195)">NSF GRFP Fellowship</span>](https://www.ndsu.edu/fileadmin/research/documents/RCAfy2016annualreport.pdf)  worth $138K. Won an [<span style="color:rgb(058,147,195)">outstanding poster presentation</span>](https://drive.google.com/file/d/1htiJt-tVH1izw0oYutZdRTVHKNRG7FQD/view?usp=drive_link) at the 2016 JMM.
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **6. Power dissipation in fractal AC circuits**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://iopscience.iop.org/article/10.1088/1751-8121/aa7a66/meta)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/182_Cis71fBaeWGpZaBemSYYDj8SaN1_m/view?usp=drive_link)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Slides</span>](https://drive.google.com/file/d/1PcMDAMuT-NH6hhAzNuHLudjMcZ0pl78p/view?usp=drive_link)]\
@@ -65,7 +65,7 @@ Venue: Journal of Physics A: Mathematical and Theoretical\
 Work Location: Completed during the 2015 University of Connecticut Mathematics REU.
 
 <span style="color:rgb(220,205,125)">&#9632;&#xFE0E;</span> **5. Maximual bullets of a 3-generated monoid where $$\small \omega(n_1) > \omega(n_3)$$**\
-Links: [Report] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/13WcT16B-QAXpKsizx1oPYOh4sle3eQmH/view?usp=drive_link)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Presentation</span>](https://drive.google.com/file/d/1c8Xc1SnHZc30zkipFewORaqmSQm-byED/view?usp=drive_link)]\
+Links: [[<span style="color:rgb(058,147,195)">Report</span>](https://drive.google.com/file/d/1HZJouk_OlCUAS8kqwlp9lv_qbOdPRDfD/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/13WcT16B-QAXpKsizx1oPYOh4sle3eQmH/view?usp=drive_link)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Presentation</span>](https://drive.google.com/file/d/1c8Xc1SnHZc30zkipFewORaqmSQm-byED/view?usp=drive_link)]\
 Work Location: Completed during the 2014 Sam Houston State University REU.
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **4. The edge Grundy numbers of $$\small P_3 \square P_N$$ and $$\small P_3 \square C_N$$**\

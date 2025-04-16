@@ -35,7 +35,7 @@ I am currently a Machine Learning Engineer at Huntington Ingalls Industries. My 
 - Feb 16, 2024: Blogpost [<span style="color:rgb(058,147,195)">*Behavioral differences in mode-switching exploration for reinforcement learning*</span>](https://iclr-blogposts.github.io/2024/blog/mode-switching/) accepted to ICLR 2024 Blogpost Track in Vienna, Austria.
 
 ---
-#### <center>Contact & Links</center>
+#### <center>Links</center>
 
 
 - [<span style="color:rgb(058,147,195)">Google Scholar</span>](https://scholar.google.com/citations?user=pReM1U8AAAAJ&hl=en)
@@ -43,7 +43,6 @@ I am currently a Machine Learning Engineer at Huntington Ingalls Industries. My 
 - [<span style="color:rgb(058,147,195)">Stack Exchange</span>](https://ai.stackexchange.com/users/37607/deepqzero)
 - [<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson)
 - [<span style="color:rgb(058,147,195)">ORCID</span>](https://orcid.org/0000-0003-2978-2483) 
-- Gmail: anderson.loren.j
 
 ---
-*Disclaimer: The views and opinions presented on this website and its internal links are strictly my own and do not necessarily represent the view of any of my past, present, or future employers, institutions, or funding agencies.*
+*Disclaimer: The views and opinions presented on this website and its internal links are strictly my own and do not necessarily represent the views of any of my past, present, or future employers, institutions, or funding agencies.*
