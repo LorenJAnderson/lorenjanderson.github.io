@@ -62,32 +62,30 @@ Highlights: Formed the basis for a winning [<span style="color:rgb(058,147,195)"
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **6. Power dissipation in fractal AC circuits**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://iopscience.iop.org/article/10.1088/1751-8121/aa7a66/meta)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/182_Cis71fBaeWGpZaBemSYYDj8SaN1_m/view?usp=drive_link)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Slides</span>](https://drive.google.com/file/d/1PcMDAMuT-NH6hhAzNuHLudjMcZ0pl78p/view?usp=drive_link)]\
 Venue: Journal of Physics A: Mathematical and Theoretical\
-Work Location: Completed during the 2015 University of Connecticut Mathematics REU.
+Notes: Completed during the 2015 University of Connecticut Mathematics REU.
 
 <span style="color:rgb(220,205,125)">&#9632;&#xFE0E;</span> **5. Maximual bullets of a 3-generated monoid where $$\small \omega(n_1) > \omega(n_3)$$**\
 Links: [[<span style="color:rgb(058,147,195)">Report</span>](https://drive.google.com/file/d/1HZJouk_OlCUAS8kqwlp9lv_qbOdPRDfD/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/13WcT16B-QAXpKsizx1oPYOh4sle3eQmH/view?usp=drive_link)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Presentation</span>](https://drive.google.com/file/d/1c8Xc1SnHZc30zkipFewORaqmSQm-byED/view?usp=drive_link)]\
-Work Location: Completed during the 2014 Sam Houston State University REU.
+Notes: Completed during the 2014 Sam Houston State University REU.
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **4. The edge Grundy numbers of $$\small P_3 \square P_N$$ and $$\small P_3 \square C_N$$**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://future-in-tech.net/Volume11.1.htm)]\
 Venue: International Journal of Mathematics and Computer Science (IJMCS)\
-Note: Answered a few lingering questions from paper *The edge Grundy numbers of some graphs*.\
-Work Location: Completed as a student at NDSU. Resultant work from the 2013 Auburn Mathematics REU.
+Notes: Completed as a student at NDSU. Resultant work from the 2013 Auburn Mathematics REU.
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **3. The edge Grundy numbers of some graphs**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>]((https://future-in-tech.net/Volume12.1.htm))]\
 Venue: International Journal of Mathematics and Computer Science (IJMCS)\
-Work Location: Completed during the 2013 Auburn Mathematics REU.
+Notes: Completed during the 2013 Auburn Mathematics REU.
 
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **2. On a 3-uniform hypergraph coloring problem in the integers**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://geombina.uccs.edu/past-issues/volume-xxv)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Slides</span>](https://drive.google.com/file/d/1LecEEcH1iB8hXK-oleb82gmv-ZfpZbBS/view?usp=drive_link)]\
 Venue: Geombinatorics\
-Work Location: Completed during the 2013 Auburn Mathematics REU.
+Notes: Completed during the 2013 Auburn Mathematics REU.
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **1. Constructively coloring the line**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://geombina.uccs.edu/past-issues/volume-xxiii)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1e5p4yTgK1eqcpL4wrzkOdv6pLF2MJnuF/view?usp=drive_link)]\
 Venue: Geombinatorics\
-Note: Formed the basis of my winning [<span style="color:rgb(058,147,195)">2014 Goldwater Scholarship</span>](https://goldwaterscholarship.gov/2014-scholars/) essay worth $15K.\
-Work Location: Completed during the 2013 Auburn Mathematics REU.
+Notes: Completed during the 2013 Auburn Mathematics REU. Formed the basis of my winning [<span style="color:rgb(058,147,195)">2014 Goldwater Scholarship</span>](https://goldwaterscholarship.gov/2014-scholars/) essay worth $15K.\
 
