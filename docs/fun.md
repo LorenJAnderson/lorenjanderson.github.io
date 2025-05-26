@@ -8,6 +8,11 @@ permalink: /fun/
 
 #### <center>Travel</center>
 
+<center><img class="align-middle" src="/assets/singapore25.JPG" alt="singapore25" width="650"></center>
+  
+<center>ICLR 2025: <i>On the pedestrian bridge lookout across from Marina Bay Sands in Singapore.</i></center> 
+&nbsp;
+
 <center><img class="align-middle" src="/assets/vancouver24.JPG" alt="vancouver24" width="650"></center>
   
 <center>NeurIPS 2024: <i>The view of Canada Place and the harbor in Vancouver, BC, Canada.</i></center> 
