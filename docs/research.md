@@ -74,7 +74,7 @@ Venue: International Journal of Mathematics and Computer Science (IJMCS)\
 Notes: Completed as a student at NDSU. Resultant work from the 2013 Auburn Mathematics REU.
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **3. The edge Grundy numbers of some graphs**\
-Links: [[<span style="color:rgb(058,147,195)">Publication</span>]((https://future-in-tech.net/Volume12.1.htm))]\
+Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://future-in-tech.net/Volume12.1.htm)]\
 Venue: International Journal of Mathematics and Computer Science (IJMCS)\
 Notes: Completed during the 2013 Auburn Mathematics REU.
 
