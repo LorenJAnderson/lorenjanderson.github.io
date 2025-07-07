@@ -29,6 +29,7 @@ I am currently a Machine Learning Engineer at Huntington Ingalls Industries. My 
 ---
 #### <center>Updates</center>
 
+- May 27, 2025: Mentoring cohort of summer interns during [<span style="color:rgb(058,147,195)">2025 AFRL Scholars Summer Program</span>](https://afrlscholars.usra.edu/).
 - Dec 18, 2024: Served as the deep reinforcement learning session chair at ICMLA 2024.
 - Sep 07, 2024: Paper [<span style="color:rgb(058,147,195)">*Optimal parameter estimation of biological systems through deep reinforcement learning*</span>](https://ieeexplore.ieee.org/abstract/document/10903242/) accepted to ICMLA 2024 in Miami, Florida.
 - Apr 12, 2024: Got married!
@@ -43,6 +44,7 @@ I am currently a Machine Learning Engineer at Huntington Ingalls Industries. My 
 - [<span style="color:rgb(058,147,195)">Stack Exchange</span>](https://ai.stackexchange.com/users/37607/deepqzero)
 - [<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson)
 - [<span style="color:rgb(058,147,195)">ORCID</span>](https://orcid.org/0000-0003-2978-2483) 
+- [<span style="color:rgb(058,147,195)">Math Genealogy</span>](https://www.mathgenealogy.org/id.php?id=334422)
 
 ---
 *Disclaimer: The views and opinions presented on this website and its internal links are strictly my own and do not necessarily represent the views of any of my past, present, or future employers, institutions, or funding agencies.*
