@@ -87,5 +87,5 @@ Notes: Completed during the 2013 Auburn Mathematics REU.
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **1. Constructively coloring the line**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://geombina.uccs.edu/past-issues/volume-xxiii)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1e5p4yTgK1eqcpL4wrzkOdv6pLF2MJnuF/view?usp=drive_link)]\
 Venue: Geombinatorics\
-Notes: Completed during the 2013 Auburn Mathematics REU. Formed the basis of my winning [<span style="color:rgb(058,147,195)">2014 Goldwater Scholarship</span>](https://goldwaterscholarship.gov/2014-scholars/) essay worth $15K.\
+Notes: Completed during the 2013 Auburn Mathematics REU. Formed the basis of my winning [<span style="color:rgb(058,147,195)">2014 Goldwater Scholarship</span>](https://goldwaterscholarship.gov/2014-scholars/) essay worth $15K.
 

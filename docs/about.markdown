@@ -17,14 +17,14 @@ permalink: /about/
 
   <span class="align-middle">
     <p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="6">Loren James Anderson</font></b></p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5">Machine Learning Engineer</font></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5">Principal Machine Learning Engineer</font></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5">Huntington Ingalls Industries</font></p>
   </span>
 </div>
 
 &nbsp;
 
-I am currently a Machine Learning Engineer at Huntington Ingalls Industries. My work involves applying deep reinforcement learning algorithms to spacecraft control scenarios with the goal of implementing and testing the resultant models in physical spacecraft. I earned my [<span style="color:rgb(058,147,195)">PhD from the University of Minnesota Twin Cities</span>](https://apps.grad.umn.edu/programs/doctoral_register.aspx?p=1052000) in 2022.
+I am currently a Principal Machine Learning Engineer at Huntington Ingalls Industries. My work involves applying deep reinforcement learning algorithms to spacecraft control scenarios with the goal of implementing and testing the resultant models in physical spacecraft. I earned my [<span style="color:rgb(058,147,195)">PhD from the University of Minnesota Twin Cities</span>](https://apps.grad.umn.edu/programs/doctoral_register.aspx?p=1052000) in 2022.
 
 ---
 #### <center>Updates</center>

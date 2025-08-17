@@ -8,6 +8,11 @@ permalink: /fun/
 
 #### <center>Travel</center>
 
+<center><img class="align-middle" src="/assets/edmonton.JPG" alt="edmonton25" width="650"></center>
+  
+<center>RLC 2025: <i>The view from the riverwalk near the University of Edmonton, Alberta, Canada.</i></center> 
+&nbsp;
+
 <center><img class="align-middle" src="/assets/singapore25.JPG" alt="singapore25" width="650"></center>
   
 <center>ICLR 2025: <i>On the pedestrian bridge lookout across from Marina Bay Sands in Singapore.</i></center> 
