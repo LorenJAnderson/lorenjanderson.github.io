@@ -7,13 +7,17 @@ permalink: /research/
 Below is a list of relevant preprints, publications, and reports. Much of my work is proprietary, and the below is only a snapshot. Works are ordered by student status or employment; more recent works are at the top of the list. For complete details about these publications, including co-authors and citation examples, please see my [<span style="color:rgb(058,147,195)">Google Scholar</span>](https://scholar.google.com/citations?user=pReM1U8AAAAJ&hl=en) profile.
 
 Key:
-<span style="color:rgb(093,168,153)">&#9632;&#xFE0E;</span> Preprints,
+<span style="color:rgb(093,168,153)">&#9632;&#xFE0E;</span> Upcoming,
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> Publications, 
 <span style="color:rgb(220,205,125)">&#9632;&#xFE0E;</span> Reports
 
 ---
 
 #### <center>Post-Graduate</center>
+
+<span style="color:rgb(093,168,153)">&#9632;&#xFE0E;</span> **14. Overcoming Challenges of Realism in Competitive Space-Based Reinforcement Learning with AstroCraft**\
+Venue: IEEE Aerospace Conference 2026\
+Notes: Work spanned 5 years with collaboration from multiple companies, in-house tournaments, and many expository presentations at other venues.
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **13. Behavioral differences in mode-switching exploration for reinforcement learning**\
 Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://iclr-blogposts.github.io/2024/blog/mode-switching/)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Open Review</span>](https://openreview.net/forum?id=GgUxexkE69)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/when-to-explore)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1ZT_BTiF5mxIv-SK5b_K4AaRkRStSbTuS/view?usp=drive_link)]\
