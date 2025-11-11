@@ -29,10 +29,10 @@ I am currently a Principal Machine Learning Engineer at Huntington Ingalls Indus
 ---
 #### <center>Updates</center>
 
-- Nov 10, 2025: Paper "Overcoming Challenges of Realism in Competitive Space-Based Reinforcement Learning with AstroCraft".
+- Nov 10, 2025: Paper *Overcoming Challenges of Realism in Competitive Space-Based Reinforcement Learning with AstroCraft* accepted to IEEE Aerospace Conference 2026 in Big Sky, Montana, USA.
 - May 27, 2025: Mentoring cohort of summer interns during [<span style="color:rgb(058,147,195)">2025 AFRL Scholars Summer Program</span>](https://afrlscholars.usra.edu/).
 - Dec 18, 2024: Served as the deep reinforcement learning session chair at ICMLA 2024.
-- Sep 07, 2024: Paper [<span style="color:rgb(058,147,195)">*Optimal parameter estimation of biological systems through deep reinforcement learning*</span>](https://ieeexplore.ieee.org/abstract/document/10903242/) accepted to ICMLA 2024 in Miami, Florida.
+- Sep 07, 2024: Paper [<span style="color:rgb(058,147,195)">*Optimal parameter estimation of biological systems through deep reinforcement learning*</span>](https://ieeexplore.ieee.org/abstract/document/10903242/) accepted to ICMLA 2024 in Miami, Florida, USA.
 - Apr 12, 2024: Got married!
 - Feb 16, 2024: Blogpost [<span style="color:rgb(058,147,195)">*Behavioral differences in mode-switching exploration for reinforcement learning*</span>](https://iclr-blogposts.github.io/2024/blog/mode-switching/) accepted to ICLR 2024 Blogpost Track in Vienna, Austria.
 
