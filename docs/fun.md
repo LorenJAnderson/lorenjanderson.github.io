@@ -8,6 +8,11 @@ permalink: /fun/
 
 #### <center>Travel</center>
 
+<center><img class="align-middle" src="/assets/sandiego.JPG" alt="edmonton25" width="650"></center>
+  
+<center>NeurIPS 2025: <i>The view of Rady Shell and the conference center in San Diego, CA, USA.</i></center> 
+&nbsp;
+
 <center><img class="align-middle" src="/assets/edmonton.JPG" alt="edmonton25" width="650"></center>
   
 <center>RLC 2025: <i>The view from the riverwalk near the University of Edmonton, Alberta, Canada.</i></center> 
