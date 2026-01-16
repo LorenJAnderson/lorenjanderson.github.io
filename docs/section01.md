@@ -67,6 +67,73 @@ gym.make(<environment_name>NoFrameskip-v4,
 
 Frame pooling isn't...Lives lost aren't explicitly discussed, but it is a best practice and should be turned off by default. 
 
+#### The Environments
+
+There are over 100 environments available [link ALE], but roughly half of those currently available are not used in standard practice. 'Full' experiments have ranged from 55-60 environments; here, we settle on 57 that seem to have risen to be a standard set more recently.
+
+There is no definitive ranking of difficulty of the environments, and we attempt to provide some guidance to the reader here. While we talk about scoring in a different section, our informal definition of 'solved' here is that an algorithm was able to play at the level or better of a human. The environments in each case didn't use the same configuration of wrappers, making comparisons difficult. 
+
+The original DQN arxiv attempted 7 and solved 3 of some of the easiest games. The following Nature paper...(Discuss A3C, PPO, etc.). A breakdown of game by exploration difficulty is provided in [Bellemare2016] that discusses whether $\epsilon$-greedy exploration 'is sufficient' or not, resulting in easy and hard games. It also divides the easy games by if a score-exploit is found or if it looks optimal to a human. The hard exploration games either have dense or sparse rewards. 
+
+| Game | Exploration Diff. | DQN arXiv | DQN Nature | 
+| --- | --- | --- | --- |
+| alien | hard-dense | |  low | 
+| amidar | hard-dense | | low | 
+| assault | easy | | solved | 
+| asterix | easy | | low | 
+| asteroids | easy | | low | 
+| atlantis | easy | | solved |
+| bank heist | hard-dense | | low |
+| battle zone | easy | | low | 
+| beam rider | easy-exploit | low | solved | 
+| berzerk | easy | | | 
+| bowling | easy | | low | 
+| boxing | easy | | solved |
+| breakout | easy | solved | solved | 
+| centipede | easy | | low | 
+| chopper command | easy | | low | 
+| crazy climber | easy | | solved  | 
+| defender | easy | | | 
+| demon attack | easy | | solved | 
+| double dunk | easy | | low |
+| enduro | easy | solved |  low | 
+| fishing derby | easy | | low | 
+| freeway | hard-sparse | | solved | 
+| frostbite | hard-dense | | low | 
+| gopher | easy | | high | 
+| gravitar | hard-sparse | | low |
+| hero | hard-dense | | low | 
+| ice hockey | easy | | low | 
+| jamesbond | easy | | high | 
+| kangaroo | easy-exploit | | high |
+| krull | easy-exploit | | high |
+| kung fu master | easy-exploit | | high |
+| montezuma revenge | hard-sparse | | low |
+| ms pacman | hard-dense | | low |
+| name this game | easy | | solved |
+| phoenix | easy | |  |
+| pitfall | hard-sparse | | |
+| pong | easy | solved | solved | 
+| private eye | hard-sparse | | low | 
+| qbert | hard-dense | low | low | 
+| riverraid | easy | | low |
+| road runner | easy-exploit | | solved |
+| robotank | easy | | solved | 
+| seaquest | easy-exploit | low | low |
+| skiing | easy | | | 
+| solaris | hard-sparse | | | 
+| space invaders | easy | low | solved | 
+| star gunner | easy | | solved | 
+| surround | hard-dense | | |
+| tennis | -- | | solved | 
+| time pilot | -- | | solved | 
+| tutankham | easy-exploit | | solved | 
+| up n down | easy-exploit | | low |
+| venture | dense-hard | | low | 
+| video pinball | -- | | solved | 
+| wizard of wor | hard-dense | | low | 
+| yars revenge | -- | | |
+| zaxxon | hard-dense | | low |
 
 ### MuJoCo 
 
@@ -81,3 +148,5 @@ Test
 [Farebrother2024] Farebrother, Jesse, and Pablo Samuel Castro. "CALE: Continuous arcade learning environment." Advances in Neural Information Processing Systems 37 (2024): 134927-134946.
 
 [Macado2018] Machado, Marlos C., et al. "Revisiting the arcade learning environment: Evaluation protocols and open problems for general agents." Journal of Artificial Intelligence Research 61 (2018): 523-562.
+
+[Bellemare2016] Bellemare, Marc, et al. "Unifying count-based exploration and intrinsic motivation." Advances in neural information processing systems 29 (2016).
