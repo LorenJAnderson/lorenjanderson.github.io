@@ -67,7 +67,7 @@ gym.make(<environment_name>NoFrameskip-v4,
 
 Frame pooling isn't...Lives lost aren't explicitly discussed, but it is a best practice and should be turned off by default. 
 
-#### The Environments
+#### The Environments (tmp)
 
 There are over 100 environments available [link ALE], but roughly half of those currently available are not used in standard practice. 'Full' experiments have ranged from 55-60 environments; here, we settle on 57 that seem to have risen to be a standard set more recently.
 
