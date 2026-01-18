@@ -3,6 +3,8 @@ layout: page
 permalink: /notes/sect01/
 ---
 &ensp;
+# PAGE UNDER CONSTRUCTION. INFORMATION INCOMPLETE
+
 # 1. Environments
 
 This section contains notes on environments. 
@@ -137,9 +139,25 @@ The original DQN arxiv attempted 7 and solved 3 of some of the easiest games. Th
 
 ### MuJoCo 
 
-```
-Test
-```
+The aforementioned Gymnasium and ATARI environments both were rather simplistic and/or unrealistic. A counterpart to the discrete-control, somewhat challenging ATARI environments is the set of continuous control MuJoCo (Multi-Joint dynamics with Contact) envrionments. These environments employ the MuJoCo physics engine that simulates physical contact dynamics between the robot agents and environment. [Discuss acquisition of MuJoCo]. 
+
+The environments require torques at hinges, torques at joints, or (more general) forces to be applied to the robots. The state space isn't a pixel observation like ATARI; it is a 1-D vector containing positions and velocities of various parts of the robot (not so sure about this..looking at some examples, angle is used...might be a better way to summarize than how the website does...). The goal usually is to make forward progress in a certain direction, keep a certain pose, use the least amount of force, or a combination. 
+
+These environments have seen usage in continuous control papers such as [examples]. [Discuss DM Control Suite]. Similar physics simulators include [examples] and have seen usage in papers such as [examples, PPO]. It does not appear that a conclusive set of MuJoCo environments is standard (unlike ATARI where there was a lore from the get-go with solving 55-60 of the environments; the simulator was created, not environments). Instead there is a current set of environments avaialble on Gymnasium that should serve as a good start **and is maintained**.
+
+| Environment | ? | 
+| --- | --- |
+| InvertedPendulum | |
+| InvertedDoublePendulum | |
+| Reacher | |
+| Pusher | | 
+| HalfCheetah | |
+| Hopper | | 
+| Walker2d | |
+| Swimmer | |
+| Ant | |
+| Humanoid | | 
+| HumanoidStandup | | 
 
 #### References 
 
