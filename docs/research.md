@@ -36,7 +36,7 @@ Highlights: All reviewer scores were positive -- 7/8/6/7.
 #### <center>Graduate</center>
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **11. Optimal parameter estimation of biological systems through deep reinforcement learning**\
-Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://ieeexplore.ieee.org/abstract/document/10903242/)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/biological-systems-oed)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1XcQM9_QL39i4g5Q3vs-ny7xTUesitjkl/view?usp=drive_link)]\
+Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://drive.google.com/file/d/1Z-jYq2S3nV2cU9bFcN9wExVUOBa2JJWJ/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/biological-systems-oed)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1XcQM9_QL39i4g5Q3vs-ny7xTUesitjkl/view?usp=drive_link)]\
 Venue: International Conference on Machine Learning and Applications (ICMLA) 2024.\
 Notes: Material originally left out of my PhD thesis. Mostly completed as a student at UMN.
 
@@ -46,7 +46,7 @@ Venue: UMN Digital Conservancy\
 Notes: UMN PhD thesis. See above and below publications for relevant code.
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **9. Bayesian sequential optimal experimental design for linear regression with reinforcement learning**\
-Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://ieeexplore.ieee.org/abstract/document/10069722)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/linear-oed)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/171nugcQRufui9xJmuXCKhlMrZYE8CH_-/view?usp=drive_link)]\
+Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://drive.google.com/file/d/14v2h9b7yRml5UBdheCyE3K1trDHC4XJt/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/linear-oed)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/171nugcQRufui9xJmuXCKhlMrZYE8CH_-/view?usp=drive_link)]\
 Venue: International Conference on Machine Learning and Applications (ICMLA) 2022.\
 Notes: Material from my Master's thesis. Completed as a student at UMN. 
 
