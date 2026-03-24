@@ -33,11 +33,10 @@ Notes: Completed during postdoc at AFRL.\
 Highlights: All reviewer scores were positive -- 7/8/6/7.
 
 ---
-
 #### <center>Graduate</center>
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **11. Optimal parameter estimation of biological systems through deep reinforcement learning**\
-Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://drive.google.com/file/d/18PJVSTvld2briUtwIdVFBtdQoFZFztRi/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/biological-systems-oed)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1XcQM9_QL39i4g5Q3vs-ny7xTUesitjkl/view?usp=drive_link)]\
+Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://drive.google.com/file/d/1opgU40ROrEHiqo0qgnBPQe0zgHouoURv/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub</span>](https://github.com/LorenJAnderson/biological-systems-oed)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1XcQM9_QL39i4g5Q3vs-ny7xTUesitjkl/view?usp=drive_link)]\
 Venue: International Conference on Machine Learning and Applications (ICMLA) 2024.\
 Notes: Material originally left out of my PhD thesis. Mostly completed as a student at UMN.
 
