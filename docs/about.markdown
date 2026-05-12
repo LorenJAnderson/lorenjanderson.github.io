@@ -24,11 +24,13 @@ permalink: /about/
 
 &nbsp;
 
-I am currently a Principal Machine Learning Engineer at Huntington Ingalls Industries. My work involves applying deep reinforcement learning algorithms to spacecraft control scenarios with the goal of implementing and testing the resultant models in physical spacecraft. I earned my [<span style="color:rgb(058,147,195)">PhD from the University of Minnesota Twin Cities</span>](https://apps.grad.umn.edu/programs/doctoral_register.aspx?p=1052000) in 2022.
+I am currently a Principal Machine Learning Engineer at Huntington Ingalls Industries. My work has involved applying deep reinforcement learning algorithms to spacecraft control scenarios with the goal of implementing and testing the resultant models in physical spacecraft. I earned my [<span style="color:rgb(058,147,195)">PhD from the University of Minnesota Twin Cities</span>](https://apps.grad.umn.edu/programs/doctoral_register.aspx?p=1052000) in 2022.
 
 ---
 #### <center>Updates</center>
 
+- May 12, 2026: Previous intern Marcos Sanson won Department of Energy Computational Science Graduate Fellowship (DOE CSGF). Congrats Marcos!
+- March 11, 2026: Below paper [<span style="color:rgb(058,147,195)">presented at IEEE Aerospace Conference 2026</span>](https://www.aeroconf.org/cms/content_attachments/75/download).
 - Nov 10, 2025: Paper *Overcoming Challenges of Realism in Competitive Space-Based Reinforcement Learning with AstroCraft* accepted to IEEE Aerospace Conference 2026 in Big Sky, Montana, USA.
 - May 27, 2025: Mentoring cohort of summer interns during [<span style="color:rgb(058,147,195)">2025 AFRL Scholars Summer Program</span>](https://afrlscholars.usra.edu/).
 - Dec 18, 2024: Served as the deep reinforcement learning session chair at ICMLA 2024.
