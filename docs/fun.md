@@ -8,6 +8,11 @@ permalink: /fun/
 
 #### <center>Travel</center>
 
+<center><img class="align-middle" src="/assets/montreal.JPG" alt="montreal" width="650"></center>
+  
+<center>RLC 2026: <i>Inside the Notre-Dame Basilica of Montreal, Quebec, Canada.</i></center> 
+&nbsp;
+
 <center><img class="align-middle" src="/assets/rio.JPG" alt="rio26" width="650"></center>
   
 <center>ICLR 2026: <i>Atop Corcovado Mountain at Christ the Redeemer in Rio de Janeiro, Brazil.</i></center> 
