@@ -30,7 +30,7 @@ I am currently a Principal Machine Learning Engineer at Huntington Ingalls Indus
 #### <center>Updates</center>
 
 - May 12, 2026: Previous intern Marcos Sanson won Department of Energy Computational Science Graduate Fellowship (DOE CSGF). Congrats Marcos!
-- March 11, 2026: Below paper presented at 2026 IEEE Aerospace Conference.
+- March 11, 2026: Below paper presented at IEEE Aerospace Conference 2026.
 - Nov 10, 2025: Paper [<span style="color:rgb(058,147,195)">*Overcoming Challenges of Realism in Competitive Space-Based Reinforcement Learning with AstroCraft*</span>](https://ieeexplore.ieee.org/abstract/document/11519822) accepted to IEEE Aerospace Conference 2026 in Big Sky, Montana, USA.
 - May 27, 2025: Mentoring cohort of summer interns during [<span style="color:rgb(058,147,195)">2025 AFRL Scholars Summer Program</span>](https://afrlscholars.usra.edu/).
 - Dec 18, 2024: Served as the deep reinforcement learning session chair at ICMLA 2024.
