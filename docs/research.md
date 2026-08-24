@@ -16,7 +16,7 @@ Key:
 #### <center>Post-Graduate</center>
 
 <span style="color:rgb(194,106,119)">&#9632;&#xFE0E;</span> **14. Overcoming Challenges of Realism in Competitive Space-Based Reinforcement Learning with AstroCraft**\
-Links: [Publication coming soon to IEEE Xplore] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub 1</span>](https://github.com/LorenJAnderson/astrocraft-environment)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub 2</span>](https://github.com/LorenJAnderson/astrocraft-experiments)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1SjxKBdKN28Ux7MHvKOZzoDCekWTHaMf8/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Slides</span>](https://drive.google.com/file/d/136LKeCPpcQGvI-6QnTx0G2MpFcrKBNRf/view?usp=sharing)]\
+Links: [[<span style="color:rgb(058,147,195)">Publication</span>](https://ieeexplore.ieee.org/abstract/document/11519822)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub 1</span>](https://github.com/LorenJAnderson/astrocraft-environment)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">GitHub 2</span>](https://github.com/LorenJAnderson/astrocraft-experiments)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Poster</span>](https://drive.google.com/file/d/1SjxKBdKN28Ux7MHvKOZzoDCekWTHaMf8/view?usp=sharing)] <span>&#x2022;</span> [[<span style="color:rgb(058,147,195)">Slides</span>](https://drive.google.com/file/d/136LKeCPpcQGvI-6QnTx0G2MpFcrKBNRf/view?usp=sharing)]\
 Venue: IEEE Aerospace Conference 2026\
 Notes: Work spanned 5 years with collaboration from multiple companies, in-house tournaments, and many expository presentations at other venues.
 
