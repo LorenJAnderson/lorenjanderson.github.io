@@ -28,7 +28,7 @@ I am currently a Principal Machine Learning Engineer at Huntington Ingalls Indus
 
 ---
 #### <center>Updates</center>
-
+- Nov 09, 2026: Paper *Low-Fuel Deep Reinforcement Learning Spacecraft Control through Lookahead Drifting* accepted to IEEE Aerospace Conference 2027 in Big Sky, Montana, USA.
 - May 12, 2026: Previous intern Marcos Sanson won Department of Energy Computational Science Graduate Fellowship (DOE CSGF). Congrats Marcos!
 - March 11, 2026: Below paper presented at IEEE Aerospace Conference 2026.
 - Nov 10, 2025: Paper [<span style="color:rgb(058,147,195)">*Overcoming Challenges of Realism in Competitive Space-Based Reinforcement Learning with AstroCraft*</span>](https://ieeexplore.ieee.org/abstract/document/11519822) accepted to IEEE Aerospace Conference 2026 in Big Sky, Montana, USA.
